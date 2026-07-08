@@ -1,6 +1,0 @@
-{
-  "name": "Hotel In N Out Management",
-  "description": "Professional Hotel & Restaurant Management system with automated Manager's Daily Report generation, room occupancy tracking, restaurant billing, and perfect A4 landscape printing.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
