@@ -5,7 +5,7 @@ import path from 'path';
 
 export default defineConfig(() => {
   return {
-    base: '/', // Essential for custom domains so assets look at the root
+base: '/report/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
